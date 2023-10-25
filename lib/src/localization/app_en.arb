@@ -1,0 +1,6 @@
+{
+  "appTitle": "crypto_tracker",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
